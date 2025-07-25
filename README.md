@@ -18,7 +18,7 @@
 - Simple website or landing page ideas
 
 🤔 I’m looking for help with:
-- Making my projects more responsive for all devices  
+- Making my projects more responsive to all devices  
 - Writing cleaner CSS and improving layouts    
 - Improving the look and feel of my portfolio   
 
