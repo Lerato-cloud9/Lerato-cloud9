@@ -3,10 +3,11 @@
 💻 I’m currently a frontend development student at CodeSpace, learning how to build responsive websites using HTML, CSS, and JavaScript.
 
 🌱 I’m currently learning:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML5 & CSS3  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git & GitHub  
-<img src="https://img.icons8.com/fluency/48/responsive.png" width="30"/> Responsive Web Design  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript (Basics)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML5 & CSS3  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git & GitHub  
+<img src="https://img.icons8.com/fluency/48/responsive.png" width="20"/> Responsive Web Design  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript (Basics)
 
 🔭 I’m currently working on:
 - CSS Frameworks and Tailwind     
